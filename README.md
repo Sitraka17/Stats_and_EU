@@ -6,3 +6,6 @@ Trying to predict some eu prices with Eduardo L.
 
 
 The results were not conclusive enough. 
+
+
+https://ec.europa.eu/eurostat/data/database/
